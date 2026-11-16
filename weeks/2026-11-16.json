@@ -1,0 +1,75 @@
+{
+  "week": "16.11. bis 20.11.2026",
+  "days": [
+    {
+      "day": "Montag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Russischer Salat", "allergens": ["C", "F", "M"] },
+        { "name": "Tortellini Mamma Rosa Art", "allergens": ["C", "A", "G", "L", "F"] },
+        { "name": "Creme Caramel", "allergens": ["A", "C", "G", "F", "H"] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Russischer Salat", "allergens": ["C", "F", "M"] },
+        { "name": "Truthahn-Currygeschnetzeltes mit Basmatireis und Bohnen", "allergens": ["A", "C", "G", "L", "F"] },
+        { "name": "Melone", "allergens": [] }
+      ]
+    },
+    {
+      "day": "Dienstag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Consommé mit Frittaten", "allergens": ["L", "F", "A", "C", "G"] },
+        { "name": "Hackbraten mit Kartoffelpüree und Rosenkohl", "allergens": ["C", "A", "G"] },
+        { "name": "Birne", "allergens": [] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Consommé mit Frittaten", "allergens": ["L", "F", "A", "C", "G"] },
+        { "name": "Farfalle mit Tomatensauce, Gorgonzola und Oliven", "allergens": ["G", "L", "F"] },
+        { "name": "Sacherschnitte", "allergens": ["C", "A", "G", "F"] }
+      ]
+    },
+    {
+      "day": "Mittwoch",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Gegrillte Zucchini mit Mozzarelline", "allergens": ["G"] },
+        { "name": "Spinatspätzle mit Schinkenrahmsauce", "allergens": ["C", "A", "G", "L", "F"] },
+        { "name": "Obstsalat", "allergens": [] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Gegrillte Zucchini mit Mozzarelline", "allergens": ["G"] },
+        { "name": "Pizzastrudel an Tomatensauce", "allergens": ["A", "G"] },
+        { "name": "Tiramisù", "allergens": ["C", "A", "G"] }
+      ]
+    },
+    {
+      "day": "Donnerstag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Kürbiscremesuppe", "allergens": ["L", "F"] },
+        { "name": "Lachsfilet mit Salzkartoffel und Mischgemüse", "allergens": ["D"] },
+        { "name": "Ananskompott", "allergens": [] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Kürbiscremesuppe", "allergens": ["L", "F"] },
+        { "name": "Penne mit Carbonara-Sauce", "allergens": ["A", "C", "G", "L", "F"] },
+        { "name": "Straciatella-Crème", "allergens": ["C", "G"] }
+      ]
+    },
+    {
+      "day": "Freitag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tagessuppe", "allergens": [] },
+        { "name": "Gersterisotto mit Selchfleisch und Wurzelgemüse", "allergens": ["G", "L"] },
+        { "name": "Obst", "allergens": [] }
+      ],
+      "dinner": []
+    }
+  ]
+}
