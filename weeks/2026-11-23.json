@@ -1,0 +1,78 @@
+{
+  "week": "23. bis 28.11.2026",
+  "days": [
+    {
+      "day": "Montag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Consommé mit Tortellini", "allergens": ["L", "F", "C", "A"] },
+        { "name": "\"Chonchiglie\"-Nudel mit Garnelen-Currysauce und Gemüseragout", "allergens": ["A", "C", "G", "L", "F", "B"] },
+        { "name": "Vanillepudding", "allergens": ["A", "C", "G", "H", "F"] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Consommé mit Tortellini", "allergens": ["L", "F", "C", "A"] },
+        { "name": "Hühnerbrust mit Sauce mit Polenta und Brokkoli", "allergens": ["C", "A", "G", "L", "F", "B"] },
+        { "name": "Clementinen", "allergens": [] }
+      ]
+    },
+    {
+      "day": "Dienstag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Griechischer Salat", "allergens": ["G"] },
+        { "name": "Kartoffelnocken mit Peperonisauce", "allergens": ["C", "A", "G", "L", "F"] },
+        { "name": "Birnenkompott", "allergens": [] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Griechischer Salat", "allergens": ["G"] },
+        { "name": "Rote-Bete-Knödel mit Käsesauce", "allergens": ["A", "C", "G"] },
+        { "name": "Buchweizenschnitte", "allergens": ["C", "A", "G"] }
+      ]
+    },
+    {
+      "day": "Mittwoch",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tomatensuppe", "allergens": ["L", "F"] },
+        { "name": "Champignonschnitzel mit Reis und Blumenkohl", "allergens": ["C", "A", "G", "L"] },
+        { "name": "Apfelmus", "allergens": ["G"] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tomatensuppe", "allergens": ["L", "F"] },
+        { "name": "Fusilli mexikanisch (scharfe Salami, Peperoni, Mais)", "allergens": ["A"] },
+        { "name": "Banencreme", "allergens": ["G"] }
+      ]
+    },
+    {
+      "day": "Donnerstag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tramezzinoschnitte", "allergens": ["A", "C", "D", "G", "M"] },
+        { "name": "Gemüselasagne mit Parmesan", "allergens": ["C", "A", "G", "L", "F"] },
+        { "name": "Obstkuchen", "allergens": ["C", "A", "G"] }
+      ],
+      "dinner": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tramezzinoschnitte", "allergens": ["A", "C", "D", "G", "M"] },
+        { "name": "Gnocchetti sardi mit Wildragout oder Tomatensauce", "allergens": ["A", "L", "F"] },
+        { "name": "Kastaniensmousse", "allergens": ["C", "G"] }
+      ]
+    },
+    {
+      "day": "Freitag",
+      "lunch": [
+        { "name": "Salat vom Buffet", "allergens": [] },
+        { "name": "Tagesuppe", "allergens": [] },
+        { "name": "Thunfisch mit Bratkartoffel und Zucchini", "allergens": ["D"] },
+        { "name": "Obst", "allergens": [] }
+      ],
+      "dinner": [
+        { "name": "Gemeinsames Abendessen um 18.30 Uhr!", "allergens": [] },
+        { "name": "Pizza", "allergens": ["A", "G"] }
+      ]
+    }
+  ]
+}
