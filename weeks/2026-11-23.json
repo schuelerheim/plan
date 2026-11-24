@@ -69,10 +69,7 @@
         { "name": "Thunfisch mit Bratkartoffel und Zucchini", "allergens": ["D"] },
         { "name": "Obst", "allergens": [] }
       ],
-      "dinner": [
-        { "name": "Gemeinsames Abendessen um 18.30 Uhr!", "allergens": [] },
-        { "name": "Pizza", "allergens": ["A", "G"] }
-      ]
+      "dinner": []
     }
   ]
 }
